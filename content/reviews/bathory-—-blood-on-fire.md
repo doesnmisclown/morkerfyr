@@ -1,5 +1,5 @@
 ---
-title: Bathory — Blood On Fire
+title: Bathory — Blood On Ice
 author: Fuerlee
 date: 2021-08-12T08:09:02.167Z
 tags:
