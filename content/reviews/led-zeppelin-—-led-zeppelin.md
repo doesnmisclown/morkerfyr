@@ -7,6 +7,7 @@ tags:
   - blues
   - rock
   - england
+  - ЭБ
 country: Англия
 ---
 {{< spotify 3ycjBixZf7S3WpC5WZhhUK >}}
