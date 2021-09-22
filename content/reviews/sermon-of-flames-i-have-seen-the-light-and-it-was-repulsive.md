@@ -1,5 +1,5 @@
 ---
-title: Sermon Of Flames - I Have Seen The Light, And It Was Repulsive
+title: Sermon Of Flames — I Have Seen The Light, And It Was Repulsive
 author: Fuerlee
 date: 2021-09-22T15:12:30.609Z
 tags:
