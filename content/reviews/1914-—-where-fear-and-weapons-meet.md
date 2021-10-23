@@ -3,8 +3,8 @@ title: 1914 — Where Fear And Weapons Meet
 author: Fuerlee
 date: 2021-10-23T09:52:49.916Z
 tags:
-  - doomdeathmetal
-  - blackeneddeathmetal
+  - doom death metal
+  - blackened death metal
   - ukraine
 country: Украина
 ---
