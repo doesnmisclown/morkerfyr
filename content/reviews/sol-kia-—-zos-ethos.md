@@ -4,7 +4,7 @@ author: Fuerlee
 date: 2021-10-25T14:50:25.522Z
 tags:
   - atmospheric metal
-  - avant-gard black metal
+  - avant-garde black metal
   - belgium
 country: Бельгия
 ---
