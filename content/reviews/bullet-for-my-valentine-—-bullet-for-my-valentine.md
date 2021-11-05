@@ -4,8 +4,8 @@ author: Fuerlee
 date: 2021-11-05T08:13:53.083Z
 tags:
   - melodic metalcore
-  - uk
-country: Великобритания
+  - wales
+country: Уэльс
 ---
 {{< spotify 6QoBe740np3sgfdp7FX12k >}}
 
