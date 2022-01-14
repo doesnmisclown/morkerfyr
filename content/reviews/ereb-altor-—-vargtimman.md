@@ -5,6 +5,7 @@ date: 2022-01-14T12:51:18.961Z
 tags:
   - pagan black metal
   - epic doom metal
+  - folk metal
   - sweden
 country: Швеция
 ---
