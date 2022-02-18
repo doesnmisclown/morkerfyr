@@ -3,6 +3,7 @@ title: Lord Belial — Enter The Moonlight Gate
 author: Fuerlee
 date: 2022-02-18T12:53:30.291Z
 tags:
+  - melodic black metal
   - black metal
   - sweden
   - ЭБ
