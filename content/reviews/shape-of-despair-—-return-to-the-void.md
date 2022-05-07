@@ -5,7 +5,7 @@ date: 2022-05-07T13:55:43.602Z
 tags:
   - funeral doom metal
   - finland
-country: Финлядния
+country: Финляндия
 ---
 {{< bandcamp 2785841284 >}}
 
