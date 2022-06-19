@@ -7,8 +7,8 @@ tags:
   - psychedelic rock
   - post-metal
   - neofolk
-  - israel
-country: Израиль
+  - belgium
+country: Бельгия
 ---
 {{< bandcamp 897003259 >}}
 
