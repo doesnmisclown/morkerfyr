@@ -3,6 +3,7 @@ title: Altars — Ascetic Reflection
 author: Fuerlee
 date: 2022-07-23T15:16:47.212Z
 tags:
+  - dissonant death metal
   - technical death metal
   - death metal
   - australia
