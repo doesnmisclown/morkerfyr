@@ -1,9 +1,10 @@
 ---
-title: inifexus — Measure
-date: 2022-08-20T05:59:47.295Z
-artist: inifexus
-album: Measure
-cover: /img/cover.jpg
-spotify: https://open.spotify.com/album/5NSbKN5vPnSZV6L6kjsuo1
-vk: https://vk.com/music/playlist/506103879_687
+title: inifexus, xe_vinar — Intoxication
+date: 2022-08-20T06:01:02.264Z
+artist: inifexus, xe_vinar
+album: Intoxication
+cover: https://f4.bcbits.com/img/a3982515978_16.jpg
+spotify: https://open.spotify.com/album/2r6yMieJAy9OKNJHNGnSul
+bandcamp: https://xevinar.bandcamp.com/album/intoxication
+vk: https://vk.com/music/playlist/308833539_315_d726fc2dd303abe6c7
 ---
