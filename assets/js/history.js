@@ -54,9 +54,6 @@ async function updatePlayedSongsHistory(history) {
 // Main radio mount. Should be used when everything is fine.
 const radioStreamMain = new Radio("/stream");
 const eventSourceMain = radioStreamMain.initEventSource();
-// Secondary radio mount. Should be used if the main one is down. Fallback.
-const radioStreamSecondary = new Radio("/secondary");
-const eventSourceSecondary = radioStreamSecondary.initEventSource();
 
 eventSourceMain.addEventListener("message", (event) => {
   setNowPlayingSong(event);
@@ -66,12 +63,4 @@ eventSourceMain.addEventListener("message", (event) => {
 
 eventSourceMain.addEventListener("error", () => {
   mainRadioMountIsAlive = false;
-});
-
-// If main radio mount is down, replace metadata with the secondary one.
-eventSourceSecondary.addEventListener("message", (event) => {
-  if (mainRadioMountIsAlive === false) {
-    setNowPlayingSong(event);
-    updatePlayedSongsHistory(radioStreamSecondary.history);
-  }
 });
