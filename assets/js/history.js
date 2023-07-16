@@ -3,7 +3,7 @@ import { html, render } from "lit-html";
 
 class Radio {
   constructor(mount) {
-    this.url = "https://84.252.75.195:8000" + mount;
+    this.url = "http://84.252.75.195:8000" + mount;
     this.metadata = this.url + "/metadata";
     this.history = this.metadata + "-history";
   }
