@@ -6,7 +6,7 @@ tags:
   - progressive metal
   - atmospheric black metal
   - space ambient
-  - usa
+  - us
 country: США
 ---
 {{< bandcamp 313727740 >}}
