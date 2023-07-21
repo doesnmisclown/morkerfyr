@@ -57,7 +57,7 @@ const eventSourceMain = radioStreamMain.initEventSource();
 
 eventSourceMain.addEventListener("message", (event) => {
   setNowPlayingSong(event);
-  //updatePlayedSongsHistory(radioStreamMain.history);
+  updatePlayedSongsHistory(radioStreamMain.history);
   mainRadioMountIsAlive = true;
 });
 
