@@ -15,11 +15,5 @@
     </div>
 
     {{$main := resources.Get "js/main.js" | js.Build (dict "minify" true) | fingerprint}}
-    <script type="text/javascript" src="{{$main.RelPermalink}}"></script>
-    <script
-      data-goatcounter="https://morkerfyr.goatcounter.com/count"
-      async
-      src="https://gc.zgo.at/count.js"
-    ></script>
   </body>
 </html>

@@ -66,6 +66,7 @@ let greetings = ['Варг не сделал ничего плохого',
                  'Пусть всякие мудаки бездушные и дальше слушают свои рэп и попсу. Или западный рок какой-нибудь, в котором души нет. В роке главное - это слова, а как можно слушать то, чего ты не понимаешь? А вдруг они тебя на хуй посылают или обсерают то, что тебе дорого.']
 const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
 
+
 const greetingsNode = document.getElementById("greetings");
 const greetingsTemplate = (greeting) => {
   return html`${greeting}`;
