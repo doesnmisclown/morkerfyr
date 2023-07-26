@@ -22,10 +22,10 @@ const player = new Plyr("#player", {
 });
 
 const playlists = [
-    "Stream",
+        "Electronic",
 	"LoFi",
 	"Metal",
-	"Rock",
+	"RuRock",
 ];
 const playlistNode = document.getElementById("playlist");
 const sourceNode = document.getElementById("source")

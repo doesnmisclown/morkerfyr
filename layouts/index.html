@@ -5,7 +5,7 @@
   <div class="mx-auto md:w-1/4">
     <audio id="player" controls="controls" preload="none">
       <source
-        src="http://radio.doesnm.cc/stream" id="source" type="audio/mpeg"
+        src="http://radio.doesnm.cc/electronic" id="source" type="audio/mpeg"
       />
     </audio>
   </div>
@@ -20,7 +20,6 @@
 <h4 class="text-3xl font-bold">История</h4>
 <ul id="history"></ul>
 </div>
-
 {{$player := resources.Get "js/player.js" | js.Build (dict "minify" true) | fingerprint}}
 <script type="text/javascript" src="{{$player.RelPermalink}}"></script>
 {{end}}
