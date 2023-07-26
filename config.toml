@@ -47,3 +47,7 @@ title = "Mörkerfyr"
     name = "GitHub"
     link = "https://github.com/commagray/morkerfyr"
     weight = 3
+
+[module]
+[[module.imports]]
+  path = 'github.com/hugo-mods/icons'
