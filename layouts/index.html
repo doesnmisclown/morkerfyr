@@ -13,7 +13,7 @@
 
 <div class="text-center">
   <div class="mx-auto">
-    <h4 class="text-2xl"> <a href="javascript:nextPlaylist(-1)">◀️</a> <span id="playlist">Playlist</span> <a onclick="nextPlaylist(1)">▶️</a> </h4>
+    <h4 class="text-2xl"> <a href="javascript:nextPlaylist(-1)">{{ partial "icon" (dict "context" . "name" "fas chevron-left") }}</a> <span id="playlist">Playlist</span> <a href="javascript:nextPlaylist(1)"> {{ partial "icon" (dict "context" . "name" "fas chevron-right") }} </a> </h4>
     <h4 class="text-3xl">🎶 <span id="nowplaying">ничего</span> 🎶</h4>
   </div>
 
