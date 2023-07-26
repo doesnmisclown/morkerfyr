@@ -42,3 +42,11 @@ nav .selected {
   margin-bottom: 0;
   margin-top: 0;
 }
+.icon {
+    width: 1em;
+    height: 1em;
+    /* Font-Awesome recommends -.125em vertical alignment (https://fontawesome.com/how-to-use/on-the-web/advanced/svg-symbols) 
+       However, I mostly find myself using the following which looks better for some icons: */
+    vertical-align: -.140em;
+    fill: currentColor;
+}
