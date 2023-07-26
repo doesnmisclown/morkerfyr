@@ -47,4 +47,5 @@ nav .selected {
     height: 1em;
     vertical-align: -.140em;
     fill: black;
+    display: inline;
 }
