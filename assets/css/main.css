@@ -23,7 +23,9 @@
 .dark .prose * {
   @apply text-gray-300;
 }
-
+.dark .icon {
+ @apply text-gray-300;
+}
 nav a {
   padding-right: 1em;
 }
