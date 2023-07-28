@@ -24,7 +24,7 @@
   @apply text-gray-300;
 }
 .dark .icon {
- @apply text-gray-300;
+ @apply text-gray-300 fill-current;
 }
 nav a {
   padding-right: 1em;
