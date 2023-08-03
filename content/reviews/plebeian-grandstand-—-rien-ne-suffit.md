@@ -3,7 +3,7 @@ title: Plebeian Grandstand — Rien Ne Suffit
 author: Fuerlee
 date: 2021-12-01T14:55:37.289Z
 tags:
-  - avant-garde black metal
+  - avantgarde black metal
   - sludge metal
   - metalcore
 country: Франция
