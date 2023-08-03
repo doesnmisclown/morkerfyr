@@ -3,7 +3,7 @@ title: Burzum — Hvis Lyset Tar Oss
 author: Fuerlee
 date: 2021-09-03T15:11:33.281Z
 tags:
-  - atmoshperic black metal
+  - atmospheric black metal
   - black metal
   - dark ambient
   - norway
