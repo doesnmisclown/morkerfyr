@@ -3,7 +3,7 @@ title: The Ruins of Beverast — Exuvia
 author: Fuerlee
 date: 2021-06-09T16:39:06.329Z
 tags:
-  - atmospheric blackmetal
+  - atmospheric black metal
   - blackened death metal
   - doom metal
   - germany
