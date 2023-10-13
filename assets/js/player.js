@@ -86,7 +86,7 @@ window.nextPlaylist = function(n){
 	audioNode.load();
 	Play();
 	if(window.evSource) window.evSource.close();
-	window.evSource = new ReconnectingEventSource("https://radio.doesnm.cc/" + current.toLowerCase() + "/metadata");
+	window.evSource = new ReconnectingEventSource("https://doesnm.cc/radio/" + current.toLowerCase() + "/metadata");
 
 	window.evSource.addEventListener("message", (event) => {
 		setNowPlayingSong(event);
