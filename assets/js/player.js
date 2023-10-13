@@ -45,7 +45,7 @@ async function setNowPlayingSong(event) {
   render(nowPlayingSongTemplate(nowPlayingSong), nowPlayingSongNode);
 }
 async function updatePlayedSongsHistory() {
-  await fetch("https://radio.doesnm.cc/" + window.playlist.toLowerCase() + "/metadata-history")
+  await fetch("https://doesnm.cc/radio/" + window.playlist.toLowerCase() + "/metadata-history")
     .then((res) => res.json())
     .then((out) => {
       playedSongsHistory = out.slice(1);
@@ -81,7 +81,7 @@ window.nextPlaylist = function(n){
 	let current = playlists[playlistPosition];
 	window.playlist = current;
 	playlistNode.innerText = current;
-	source.src = "https://radio.doesnm.cc/" + current.toLowerCase();
+	source.src = "https://doesnm.cc/radio/" + current.toLowerCase();
 	Pause();
 	audioNode.load();
 	Play();
